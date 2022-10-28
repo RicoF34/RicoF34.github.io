@@ -20,3 +20,7 @@ body{
   text-transform: uppercase;
   border-bottom: 1px solid
 }
+.pic{
+  float:right;
+  margin-left:20px;
+}
